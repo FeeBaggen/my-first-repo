@@ -1,0 +1,17 @@
+h1{
+    color:lime;
+}
+p {
+    background-color: orange;
+}
+p#intro {
+    background-color: yellow;
+}
+body{
+    background-color: pink
+    background-image: url(https://media.tenor.com/B2S75qxm07UAAAAM/jo-bonten-i-can-put-my-hand-through-it.gif); 
+    background-size: 50px;
+}
+.dikkevetterand {
+    border: 10px dashed black
+}
